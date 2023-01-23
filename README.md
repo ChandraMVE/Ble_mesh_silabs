@@ -1,1 +1,1 @@
-# Ble_mesh_silabs
+# Ble_mesh_silabs project
